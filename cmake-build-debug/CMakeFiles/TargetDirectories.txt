@@ -1,0 +1,3 @@
+C:/Users/guilh/CLionProjects/SistemaSolar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/guilh/CLionProjects/SistemaSolar/cmake-build-debug/CMakeFiles/SistemaSolar.dir
+C:/Users/guilh/CLionProjects/SistemaSolar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

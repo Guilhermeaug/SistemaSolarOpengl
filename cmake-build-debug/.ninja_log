@@ -1,0 +1,15 @@
+# ninja log v5
+1	349	6660515075633012	build.ninja	7af273e91bab6464
+17	542	6660482320753140	CMakeFiles/SistemaSolar.dir/utils.c.obj	7fd199b60b24e43d
+2	618	6660482321503137	CMakeFiles/SistemaSolar.dir/main.c.obj	3f7de74daf88bb01
+20	507	6659765046261564	CMakeFiles/SistemaSolar.dir/textura.c.obj	a98c6cc0d7a4bbe0
+2	400	6659594203658594	CMakeFiles/SistemaSolar.dir/config.c.obj	d006085c3607ff04
+618	942	6660482324663139	SistemaSolar.exe	2cd9120a852eca40
+22	536	6660482320633135	CMakeFiles/SistemaSolar.dir/planeta.c.obj	fb9aed7a4281a7b9
+15	795	6657717950861928	CMakeFiles/SistemaSolar.dir/musica.cpp.obj	bd551131d3c998dc
+3	656	6660515075633012	build.ninja	7af273e91bab6464
+5	701	6660515083972989	CMakeFiles/SistemaSolar.dir/planeta.c.obj	f4772c6aa86504d0
+22	703	6660515083992954	CMakeFiles/SistemaSolar.dir/utils.c.obj	61d14fff7e771fff
+9	704	6660515083992954	CMakeFiles/SistemaSolar.dir/textura.c.obj	5fe9b45960996183
+16	716	6660515084132936	CMakeFiles/SistemaSolar.dir/main.c.obj	e3bc0151abb2ed6d
+716	959	6660515086522947	SistemaSolar.exe	2cd9120a852eca40

@@ -1,0 +1,4 @@
+C:\Users\guilh\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\213.6777.58\bin\cmake\win\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/guilh/AppData/Local/JetBrains/Toolbox/apps/CLion/ch-0/213.6777.58/bin/ninja/win/ninja.exe -G Ninja C:\Users\guilh\CLionProjects\SistemaSolar
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/guilh/CLionProjects/SistemaSolar/cmake-build-debug
