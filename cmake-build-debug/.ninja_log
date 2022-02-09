@@ -13,3 +13,6 @@
 9	704	6660515083992954	CMakeFiles/SistemaSolar.dir/textura.c.obj	5fe9b45960996183
 16	716	6660515084132936	CMakeFiles/SistemaSolar.dir/main.c.obj	e3bc0151abb2ed6d
 716	959	6660515086522947	SistemaSolar.exe	2cd9120a852eca40
+16	844	6661489162625374	CMakeFiles/SistemaSolar.dir/utils.c.obj	61d14fff7e771fff
+2	845	6661489162636333	CMakeFiles/SistemaSolar.dir/textura.c.obj	5fe9b45960996183
+845	1218	6661489166333773	SistemaSolar.exe	2cd9120a852eca40
