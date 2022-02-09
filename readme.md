@@ -12,7 +12,7 @@ Foram utilizadas as seguintes bibliotecas para o desenvolvimento do projeto:
 * Freeglut (versão pré-compilada para mingw)
 * Glew
 * SOIL
-* Irrklang para reproduzir sons
+* Irrklang versão 1.5.0 para reproduzir sons
 
 É necessário ter um compilador que suporte a linguagem C++ e que suporte a biblioteca Freeglut.
 Lembre-se de manter os arquivos .dll no seu diretório de compilação, além dos includes necessários para cada biblioteca
@@ -63,5 +63,6 @@ Para a criação do sistema solar, foram utilizadas as seguintes referências:
 * [Lista de objetos do Sistema Solar por tamanho](https://pt.wikipedia.org/wiki/Lista_de_objetos_do_Sistema_Solar_por_tamanho)
 * [Aula 29: OpenGL Legacy - Posicionando a Fonte de Luz(Light Position )](https://www.youtube.com/watch?v=Za4ghaBaCec)
 * [Aula Prática 6 (Visualização 3D em OpenGL)](https://www.inf.pucrs.br/~manssour/CG/pratica6/index.html)
+* [Audio](https://learnopengl.com/In-Practice/2D-Game/Audio)
 
 
