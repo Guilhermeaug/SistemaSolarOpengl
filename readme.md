@@ -25,7 +25,7 @@ Por fim, lembre-se de manter a pasta recursos no diretorio do executável. O pro
 O mesmo usa o arquivo CMakeLists.txt. Desse modo, caso utilize tal ‘software’ ou outro que use o arquivo cmake, será mais fácil a configuração.
 
 Para compilar o programa:
-```c++ -std=c++11 main.c musica.cpp planeta.c textura.c utils.cpp -o main -lSOIL -lfreeglut -lopengl32 -g```  
+```c++ -std=c++11 main.c musica.cpp planeta.c textura.c utils.c -o main -lSOIL -lfreeglut -lopengl32 -g```  
 
 ## Lista de itens adicionais implementados
 
