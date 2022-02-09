@@ -64,5 +64,6 @@ Para a criação do sistema solar, foram utilizadas as seguintes referências:
 * [Aula 29: OpenGL Legacy - Posicionando a Fonte de Luz(Light Position )](https://www.youtube.com/watch?v=Za4ghaBaCec)
 * [Aula Prática 6 (Visualização 3D em OpenGL)](https://www.inf.pucrs.br/~manssour/CG/pratica6/index.html)
 * [Audio](https://learnopengl.com/In-Practice/2D-Game/Audio)
+* [How to mix C and C++](https://isocpp.org/wiki/faq/mixing-c-and-cpp)
 
 
