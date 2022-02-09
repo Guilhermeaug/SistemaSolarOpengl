@@ -8,6 +8,8 @@
 * Victor Samuel Levindo Mont'Mor (20213005191)
 
 ## Instruções para compilação/execução
+O arquivo executável encontra-se na pasta cmake-build-debug
+
 Foram utilizadas as seguintes bibliotecas para o desenvolvimento do projeto:
 * Freeglut (versão pré-compilada para mingw)
 * Glew
